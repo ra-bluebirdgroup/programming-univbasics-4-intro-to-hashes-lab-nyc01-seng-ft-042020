@@ -31,8 +31,6 @@ my_hash_creatorhash = {
 }
 my_hash_creator
 
-
-
 end
 
 def read_from_hash(hash, key)
