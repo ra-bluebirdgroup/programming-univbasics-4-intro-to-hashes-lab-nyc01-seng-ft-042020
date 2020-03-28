@@ -26,10 +26,10 @@ end
 
 def my_hash_creator(key, value)
   # return a hash that includes the key and value parameters passed into this method
-hash = {
+my_hash_creatorhash = {
 :key => value
 }
-hash 
+hash
 
 
 
